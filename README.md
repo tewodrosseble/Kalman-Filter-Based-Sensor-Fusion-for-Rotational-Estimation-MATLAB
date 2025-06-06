@@ -36,7 +36,7 @@ A full-featured **interactive dashboard** built using MATLAB GUI elements:
 
 ## 📽️ Demo Video
 
-https://user-images.githubusercontent.com/yourusername/sensor_fusion_demo.mp4
+https://user-images.githubusercontent.com/tewodrosseble/sensor_fusion_demo.mp4
 
 > Replace the URL above with the actual uploaded video location from your GitHub repo or upload via GitHub's “Releases” tab or a platform like YouTube.
 
