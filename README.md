@@ -9,7 +9,7 @@ This project demonstrates a real-time **angle estimation system** using sensor f
 ## 🧠 Features
 
 ### ✅ Kalman Filter-Based Sensor Fusion
-- Combines gyroscope and accelerometer data to estimate the angular position.
+- Combines gyroscope and accelerometer data to estimate angular position.
 - Filters out gyro drift and accelerometer noise effectively.
 - Real-time updates across all signal transitions.
 
@@ -30,60 +30,67 @@ A full-featured **interactive dashboard** built using MATLAB GUI elements:
   - Estimation error
 
 ### 🎥 Automatic Video Recording
-- Simulation automatically saves a video (`sensor_fusion_demo.mp4`) of the GUI and animation using MATLAB’s `VideoWriter`.
+- Simulation automatically records the dashboard as `sensor_fusion_demo.mp4` using MATLAB’s `VideoWriter`.
 
 ---
 
 ## 📽️ Demo Video
 
-https://user-images.githubusercontent.com/tewodrosseble/sensor_fusion_demo.mp4
+🎬 **Click below to watch the demo in your browser:**
 
-> Replace the URL above with the actual uploaded video location from your GitHub repo or upload via GitHub's “Releases” tab or a platform like YouTube.
+[![Watch the demo video](https://img.youtube.com/vi/placeholder/hqdefault.jpg)](https://github.com/tewodrosseble/Kalman-Filter-Based-Sensor-Fusion-for-Rotational-Estimation-MATLAB/blob/main/sensor_fusion_demo.mp4)
+
+> If the video doesn't autoplay, GitHub may preview it in-browser or require download depending on the user's settings.
 
 ---
 
 ## 📂 Files Included
-| File | Description |
-|------|-------------|
-| `sensor_fusion_gui_recordable.m` | Main GUI script with all features enabled |
-| `sensor_fusion_demo.mp4`         | Example output video of the simulation |
-| `sensor_simulation_data.m`       | (Optional) Raw data generator for individual sensor tests |
-| `README.md`                      | Project documentation |
+
+| File                             | Description                                      |
+|----------------------------------|--------------------------------------------------|
+| `sensor_fusion_gui_recordable.m` | Main GUI script with all features enabled        |
+| `sensor_fusion_demo.mp4`         | Recorded output of the simulation dashboard      |
+| `README.md`                      | Project documentation                            |
 
 ---
 
 ## 🛠️ Requirements
-- MATLAB R2021a or later (GUI and `VideoWriter` support required)
-- No additional toolboxes required
+
+- MATLAB R2021a or later  
+- No additional toolboxes required  
+- Compatible with most platforms supporting MATLAB GUI and plotting
 
 ---
 
-## 🧠 Educational Value
-This project is especially useful for students or engineers learning:
-- Sensor fusion fundamentals
-- Kalman filtering
-- IMU and encoder signal behavior
-- Embedded system estimation in control loops
+## 🎓 Educational Value
+
+This project helps build intuition for:
+- Kalman filters and sensor fusion
+- IMU signal characteristics and drift
+- Embedded system estimation techniques
+- Real-time signal integration challenges
 
 ---
 
-## 🔗 Applications
-- Robotics and autonomous systems
-- Motor control systems (servo/BLDC)
-- Wearable and inertial navigation systems
-- Mechatronics and real-time feedback
+## 🌍 Applications
+
+- Robotics and autonomous navigation  
+- Servo/motor control systems  
+- Inertial navigation units (IMUs)  
+- Real-time estimation in control loops  
 
 ---
 
 ## 📜 License
-This project is open-source under the MIT License. See `LICENSE` for details.
+
+This project is licensed under the MIT License. See `LICENSE` for more details.
 
 ---
 
 ## 🙋‍♂️ Author
-**[Your Name]**  
-LinkedIn: [Your LinkedIn]  
-GitHub: [Your GitHub Profile]  
+
+**Tewodros Seble**  
+🔗 [GitHub Profile](https://github.com/tewodrosseble)
 
 ---
 
